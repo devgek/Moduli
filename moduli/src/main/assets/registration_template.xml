@@ -1,0 +1,120 @@
+<html>
+    <head>
+        <style type="text/css">
+            body {
+            	font-family: Arial;
+            }
+            .center {
+            	align: center;
+            }
+	    .width100 {
+		width: 100%;
+		text-align: center;
+	    }
+	table
+	{ 
+		margin-left: auto;
+		margin-right: auto;
+	}
+	table.fiftyfifty tr trd {
+		width: 50%;
+	}
+        </style>
+    </head>
+    <body class="width100 center">
+		<table width="100%" class="fiftyfifty">
+		    <tr style="font-size:40px">
+		        <td>$$Klasse$$ / $$Katalognummer$$</td>
+		        <td>$$Familienname$$, $$Vorname$$</td>
+		    </tr>
+		    <tr>
+		        <td>........................................</td>
+		        <td>..........................................................................................</td>
+		    </tr>
+		    <tr>
+		        <td>Klasse / Katalognummer</td>
+		        <td>Familienname (in BLOCKBUCHSTABEN), Vorname</td>
+		    </tr>
+		</table>
+		<br />
+		<br />
+        <div style="margin-top: 20px">Ich melde mich f&uuml;r folgende Kurse verbindlich an:</div>
+        <br />
+        <h1>Wintersemester 2015/16</h1>
+
+		<div>
+			<table width="100%">
+			    <tr>
+			    	<th>Kursnummer</th>
+			    	<th>Titel/Fach</th>
+			    	<th>LeiterIn</th>
+			    	<th>Zeit</th>
+			    </tr>
+			    <tr>
+				<td>$$W1K$$</td>
+				<td>$$W1T$$</td>
+				<td>$$W1L$$</td>
+				<td>$$W1Z$$</td>
+			   </tr>
+			    <tr>
+				<td>$$W2K$$</td>
+				<td>$$W2T$$</td>
+				<td>$$W2L$$</td>
+				<td>$$W2Z$$</td>
+			   </tr>
+			    <tr>
+				<td>$$W3K$$</td>
+				<td>$$W3T$$</td>
+				<td>$$W3L$$</td>
+				<td>$$W3Z$$</td>
+			   </tr>
+			</table>
+		</div>
+	
+	        <br/>
+	        <h1>Sommersemester 2015/16</h1>
+	
+		<div>
+			<table width="100%">
+			    <tr>
+			    	<th>Kursnummer</th>
+			    	<th>Titel/Fach</th>
+			    	<th>LeiterIn</th>
+			    	<th>Zeit</th>
+			    </tr>
+			    <tr>
+				<td>$$S1K$$</td>
+				<td>$$S1T$$</td>
+				<td>$$S1L$$</td>
+				<td>$$S1Z$$</td>
+			   </tr>
+			    <tr>
+				<td>$$S2K$$</td>
+				<td>$$S2T$$</td>
+				<td>$$S2L$$</td>
+				<td>$$S2Z$$</td>
+			   </tr>
+			    <tr>
+				<td>$$S3K$$</td>
+				<td>$$S3T$$</td>
+				<td>$$S3L$$</td>
+				<td>$$S3Z$$</td>
+			   </tr>
+			</table>
+		</div>
+		<br/>
+		<div>Ich bestätige mit meiner Unterschrift, die Anmeldung gewissenhaft kontrolliert und die "Allgemeinen Richtlinien" und Informationen gelesen zu haben.</div>
+		<br/>
+		<br/>
+		<table width="100" class="fiftyfifty">
+		    <tr>
+		        <td>...............................................................................</td>
+		        <td>...............................................................................</td>
+		    </tr>
+		    <tr>
+		        <td>Unterschrift der Erziehungsberechtigten</td>
+		        <td>Unterschrift des Schülers / der Schülerin</td>
+		    </tr>
+		</table>
+	</body>
+</html>

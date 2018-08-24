@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="center">17</integer>
+    <integer name="gravityPlanTableRowText">@integer/center</integer>
+    <integer name="layoutGravityPlanTableRowText">@integer/center</integer>
+    <integer name="card_text_normal">0</integer>
+    <integer name="card_text_strong">1</integer>
+</resources>

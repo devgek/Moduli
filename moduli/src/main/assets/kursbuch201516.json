@@ -1,0 +1,1411 @@
+{
+  "title": "Kursbuch 2015/2016",
+  "school": "BG/BRG Berndorf",
+  "categories": [
+    {
+      "key": "01",
+      "name": "Bewegung und Sport",
+      "winter": true,
+      "summer": true
+    },
+    {
+      "key": "02",
+      "name": "Bildnerische Erziehung",
+      "winter": true,
+      "summer": true
+    },
+    {
+      "key": "03",
+      "name": "Darstellende Geometrie",
+      "winter": true,
+      "summer": false
+    },
+    {
+      "key": "04",
+      "name": "Darstellendes Spiel",
+      "winter": true,
+      "summer": true
+    },
+    {
+      "key": "05",
+      "name": "Deutsch",
+      "winter": true,
+      "summer": true
+    },
+    {
+      "key": "06",
+      "name": "Englisch",
+      "winter": true,
+      "summer": true
+    },
+    {
+      "key": "07",
+      "name": "Geographie und Wirtschaftskunde",
+      "winter": true,
+      "summer": true
+    },
+    {
+      "key": "08",
+      "name": "Geschichte und Sozialkunde",
+      "winter": true,
+      "summer": true
+    },
+    {
+      "key": "09",
+      "name": "Informatik",
+      "winter": true,
+      "summer": true
+    },
+    {
+      "key": "10",
+      "name": "Italienisch",
+      "winter": true,
+      "summer": true
+    },
+    {
+      "key": "11",
+      "name": "Mathematik",
+      "winter": true,
+      "summer": true
+    },
+    {
+      "key": "12",
+      "name": "Musikerziehung",
+      "winter": true,
+      "summer": true
+    },
+    {
+      "key": "13",
+      "name": "Physik",
+      "winter": true,
+      "summer": true
+    },
+    {
+      "key": "14",
+      "name": "Psychologie und Philosophie",
+      "winter": true,
+      "summer": true
+    },
+    {
+      "key": "15",
+      "name": "Spanisch",
+      "winter": true,
+      "summer": true
+    },
+    {
+      "key": "16",
+      "name": "Biologie und Umweltkunde",
+      "winter": false,
+      "summer": true
+    },
+    {
+      "key": "17",
+      "name": "Chemie",
+      "winter": false,
+      "summer": true
+    },
+    {
+      "key": "18",
+      "name": "Latein",
+      "winter": false,
+      "summer": true
+    }
+  ],
+  "modules": [
+    {
+      "catKey": "01",
+      "title": "Fitness und Krafttraining",
+      "number": "225W15BS",
+      "season": "W",
+      "leader": "Mag. Martin Schwinner",
+      "day": "MO",
+      "block": "NB1",
+      "rating": "N",
+      "desc": "Diese Einheit findet im Fitnesscenter Olympia in Berndorf statt. Der Kurs beinhaltet die Grundlagen des Trainings an Geräten, thematisiert aber auch Gesundheit und Krafttraining mit individueller Steuerung",
+      "anno": "3.- Euro pro Besuch",
+      "pre": "",
+      "grad":""
+    },
+    {
+      "catKey": "01",
+      "title": "Schlagsportarten - Tennis und Badminton",
+      "number": "226W15BS",
+      "season": "W",
+      "leader": "Mag. Martin Schwinner",
+      "day": "DO",
+      "block": "NB2",
+      "rating": "N",
+      "desc": "Technische und taktische Weiterentwicklung, Spielformen, Training nach Leistungsstärke, Regelkunde, Trainingslehre, Besuch des 'kids day' des 'Erste Open Tennisturniers' in der Wiener Stadthalle sind eine Übersicht der wichtigsten Inhalte des Moduls.",
+      "anno": "Exkursion nach Wien",
+      "pre": "Eigene Tennisausrüstung notwendig",
+      "grad":""
+    },
+    {
+      "catKey": "01",
+      "title": "'Sport-coach' ÜbungsleiterInnen-Ausbildung",
+      "number": "227W15BS",
+      "season": "W",
+      "leader": "Mag. Beate Schwinner",
+      "day": "MI",
+      "block": "NB1",
+      "rating": "N",
+      "desc": "‚Sport-Coach‘ Übungsleiter-Ausbildung ist die Grundvoraussetzung
+für staatliche Fitausbildung in Bereichen wie Kondition
+und Koordination, um z.B. in Vereinen oder Fitnessstudios zu
+arbeiten. Aber auch als ‚Sport-Coach‘ kannst du bereits Gruppen
+in Vereinen betreuen.
+Unterrichtet wird: Erste Hilfe, Anatomie, Trainingslehre,
+Physiologie, Pädagogik, Methodik, Bewegungslehre und
+praktische Lehrinhalte wie Klettern, Outdooractivities,
+Teambildung, Aufwärm- und Ballspiele . Das Modul schließt mit einem SPORTUNION–Zertifikat für
+‚Sport-Coaches‘ ab.",
+      "anno": "ca. 45 € für CD, Prüfungsgebühr, Zertifikat",
+      "pre": "",
+      "grad":""
+    }
+    ,
+    {
+      "catKey": "01",
+      "title": "Volleyball - Teil 1",
+      "number": "228W15BS",
+      "season": "W",
+      "leader": "Mag. Josef Kirnbauer",
+      "day": "DI",
+      "block": "NB2",
+      "rating": "N",
+      "desc": "- Technische und taktische Ausbildung
+- Videoanalysen
+- Turnierteilnahmen nach Möglichkeit",
+      "anno": "Kosten ca. 20,- €",
+      "pre": "Beherrschen der Grundtechniken des VB-Spiels",
+      "grad":""
+    }
+    ,
+    {
+      "catKey": "01",
+      "title": "Die Wahrheit hinter Trends wie Pilates & Faszientraining",
+      "number": "223W15BS",
+      "season": "W",
+      "leader": "Mag. Alexandra Saje",
+      "day": "DO",
+      "block": "NB1",
+      "rating": "T",
+      "desc": "Sind diese Trends tatsächlich neu? Wir erforschen ihre Wurzeln
+genauso wie ihre Bedeutung für Gesundheit und Wohlbefinden,
+klären Funktionen und Aufgaben der einzelnen Muskelgruppen.
+Pilates und Faszientraining als „modernes Rückenturnen“.
+Ziel des Moduls: Einen Ausgleich zu ständigem Sitzen in Schule
+und zukünftigen Berufen schaffen, achtsam mit dem eigenen
+Körper umgehen, entspannt und „aufrecht“ den Alltag meistern
+können.",
+      "anno": "",
+      "pre": "",
+      "grad":""
+    }
+    ,
+    {
+      "catKey": "02",
+      "title": "Zeichnung",
+      "number": "231W15BE",
+      "season": "W",
+      "leader": "Mag. Irene Hörndl",
+      "day": "MI",
+      "block": "NB1",
+      "rating": "N",
+      "desc": "Zeichnen lernen, kann man das überhaupt? Wir versuchen es
+mit Graphitstiften, Kohle, Rötel, Farbstiften auf verschiedenen
+Papieren. Von Strichen und Linien, Licht und Schatten,
+Strukturen und Körperhaftem führt der Weg zur selbständigen
+Arbeit. Viele interessante Übungen sollen dir dabei helfen, die
+kreative Vielfalt der Zeichnung zu entdecken. Von lockeren
+Skizzen bis zu detailliert ausgearbeiteten Bildern ist alles
+möglich.",
+      "anno": "Kosten je nach Materialeinsatz",
+      "pre": "",
+      "grad":""
+    }
+    ,
+    {
+      "catKey": "02",
+      "title": "Portfolio",
+      "number": "229W15BE",
+      "season": "W",
+      "leader": "Mag. Regina Hadraba",
+      "day": "DI",
+      "block": "NB1",
+      "rating": "N",
+      "desc": "In diesem Modul geht es um die Erstellung eines Entwicklungsportfolios,
+das in engem Zusammenhang mit der beabsichtigten
+VWA stehen kann. Angesprochen sind vor allem jene, die ein
+künstlerisches, historisches und ev. literarisches Thema gewählt
+haben. Das Portfolio soll die Entwicklung und Findung eines
+Themas schriftlich und grafisch aufzeigen und eine Hilfe für die
+spätere Präsentation darstellen.
+Es wird die Universitätsbibliothek besucht (Ausweis gelöst) und
+eventuell ein Museum.
+Im praktischen Teil des Moduls wird von jedem Teilnehmer ein
+Portfolio je nach Themawahl gestaltet und eventuell als
+(„Künstler“-)Buch gebunden. Erwartet wird, dass auch
+außerhalb des Unterrichts nach Textzitaten, Bildern, Ideen
+gesucht wird. Am Ende soll ein Referat über die inhaltliche
+Auseinandersetzung mit dem gewählten Thema stehen
+(Powerpoint).",
+      "anno": "Kosten für Exkursion und Materialien",
+      "pre": "",
+      "grad":"Präsentation, fertiges Portfolio.
+Im Zuge des Moduls finden auch geblockte Einheiten statt!"
+    }
+    ,
+    {
+      "catKey": "02",
+      "title": "Vom Codex zum Kindle – von der Initiale zum Layout",
+      "number": "230W15BE",
+      "season": "W",
+      "leader": "Mag. Regina Hadraba",
+      "day": "DO",
+      "block": "NB1",
+      "rating": "N",
+      "desc": "In diesem Modul geht es um die Entwicklung des Buches mit all
+seinen gestalterischen Elementen (wie z. B. Initialen,
+Illumination, Layout) und seinem sozialen Kontext (Handschrift,
+Buchdruck, Computereinsatz). Zu diesem Zweck werden Orte
+besucht, die die Dokumentation und Verwendung dieses
+Mediums repräsentieren: Papyrusmuseum, Handschriftensammlung
+oder Universität (oder Verlag).
+Im praktischen Teil des Moduls wird von jedem Teilnehmer
+selbst ein Exemplar nach eigenen Vorstellungen vorbereitet und
+gebunden.",
+      "anno": "Kosten für Exkursion und Materialien",
+      "pre": "",
+      "grad":"Referat, praktische Arbeit.
+Im Zuge des Moduls finden auch geblockte Einheiten statt!"
+    }
+    ,
+    {
+      "catKey": "03",
+      "title": "Darstellende Geometrie 1",
+      "number": "232W15DG",
+      "season": "W",
+      "leader": "Mag. Markus Altenstrasser",
+      "day": "DO",
+      "block": "NB1",
+      "rating": "N",
+      "desc": "Die Darstellende Geometrie ist nach wie vor Basis für viele
+Ausbildungen im naturwissenschaftlich-technischen Bereich und
+für manche Studien sogar Voraussetzung (Architektur). Der
+Unterricht erfolgt gemischt am Blatt und am PC.",
+      "anno": "",
+      "pre": "Der Kurs besteht aus vier Modulen (DG 1 bis DG 4). Die Wahl
+der weiteren Module ist verpflichtend, damit der Kurs auch zur Gänze
+abgehalten werden kann.",
+      "grad":""
+    },
+    {
+      "catKey": "03",
+      "title": "Darstellende Geometrie 3",
+      "number": "233W15DG",
+      "season": "W",
+      "leader": "Mag. Markus Altenstrasser",
+      "day": "DO",
+      "block": "NB2",
+      "rating": "N",
+      "desc": "Die Darstellende Geometrie ist nach wie vor Basis für viele
+Ausbildungen im naturwissenschaftlich-technischen Bereich und
+für manche Studien sogar Voraussetzung (Architektur). Der
+Unterricht erfolgt gemischt am Blatt und am PC.",
+      "anno": "",
+      "pre": "Der Kurs besteht aus vier Modulen (DG 1 bis DG 4). Die Wahl
+der weiteren Module ist verpflichtend, damit der Kurs auch zur Gänze
+abgehalten werden kann.",
+      "grad":""
+    },
+    {
+      "catKey": "04",
+      "title": "Lebenslust und Todessehnsucht",
+      "number": "234W15DS",
+      "season": "W",
+      "leader": "Mag. Raimund Perkonigg",
+      "day": "MI",
+      "block": "NB2",
+      "rating": "N",
+      "desc": "Eine (theater-) spielerische Auseinandersetzung mit den
+Themen Tod und Leben, Lieben und Vergehen.
+Das Theaterstück „Norway Today“ und der Film „Harold und
+Maude“ werden uns bei unserer Spurensuche über Lebenslust
+und Todessehnsucht inspirieren.",
+      "anno": "Ob am Ende unserer Arbeit eine öffentliche Performance stehen soll,
+entscheidet die Gruppe.",
+      "pre": "",
+      "grad":""
+    },
+    {
+      "catKey": "05",
+      "title": "Kulturgeschichte des Essens: Antike bis zur Neuzeit",
+      "number": "235W15DE",
+      "season": "W",
+      "leader": "Mag. Gabriele Handl",
+      "day": "MI",
+      "block": "NB2",
+      "rating": "T",
+      "desc": "Anhand von Texten, praktischen Versuchen (Kochen) und
+Lehrausgängen beschäftigen wir uns mit Grundnahrungsmitteln
+(Brot, Gewürze), Festen und Tischsitten oder der Rolle des
+Essens in Literatur und Kunst. Ziel ist es, das Bewusstsein für die
+kulturelle und gesellschaftliche Bedeutung des Essens und die
+Qualität von Nahrungsmitteln zu stärken. Teilweise Blockveranstaltung (Exkursion)",
+      "anno": "Kosten für Exkursion und Zutaten, ca. 30 €",
+      "pre": "",
+      "grad":""
+    },
+    {
+      "catKey": "05",
+      "title": "Werbetexte und Websitekonzept",
+      "number": "236W15DE",
+      "season": "W",
+      "leader": "Mag. Alexandra Saje",
+      "day": "DI",
+      "block": "NB2",
+      "rating": "N",
+      "desc": "Werbetexte funktionieren anders als literarische. Wo sind die
+Unterschiede? Was ist eine zielgruppen-adäquate
+Ansprache?
+Gemeinsam analysieren wir dazu Websites, definieren
+Zielgruppen und überlegen Themen für Websites.
+Am Ende des Wahlmoduls sollte jeder Teilnehmer für eine
+selbstgewählte „Wunsch-Website“ ein Konzept, die theoretische
+Struktur und Texte für die notwendigsten Seiten ausgearbeitet
+haben.",
+      "anno": "",
+      "pre": "",
+      "grad":""
+    },
+    {
+      "catKey": "06",
+      "title": "Prüfungsvorbereitung FCE –
+First Certificate in English (Teil 1)",
+      "number": "237W15EN",
+      "season": "W",
+      "leader": "Mag. Doris Handler",
+      "day": "MO",
+      "block": "NB1",
+      "rating": "N",
+      "desc": "FCE-Prüfung (GERS Niveaustufe B2), gilt als international
+anerkannter Nachweis über deine Sprachkenntnisse. Das Modul
+richtet sich besonders an SchülerInnen, die in einem Umfeld
+studieren oder arbeiten wollen, in dem Englisch als
+Verkehrssprache verwendet wird.
+Teilnahme ist nicht an Prüfung gebunden, eignet sich als
+zusätzliches Angebot zum Englischunterricht sowie als
+Vorbereitung auf die Reifeprüfung. Du übst schriftliche und
+mündliche Testformate und hast ausreichend Gelegenheit, deine
+Sprachkenntnisse in kommunikativen Übungen anzuwenden. Fortsetzung des Moduls im Sommersemester. Belegung SS
+Moduls FCE Teil 2 ist NICHT Bedingung für eine Teilnahme am Kurs, jedoch
+äußerst empfehlenswert.",
+      "anno": "€ 5 für Kopien, ev. Prüfungsgebühr € 200!",
+      "pre": "",
+      "grad":""
+    },
+    {
+      "catKey": "06",
+      "title": "Training für die schriftliche Reifeprüfung in Englisch",
+      "number": "238W15EN",
+      "season": "W",
+      "leader": "Mag. Sabine Zimmermann",
+      "day": "DI",
+      "block": "NB1",
+      "rating": "N",
+      "desc": "Dieses Modul ist für jene SchülerInnen gedacht, die die
+schriftliche Reifeprüfung in Englisch ablegen wollen. Es werden
+folgende Fertigkeiten geübt und gefestigt: Listening
+Comprehension, Reading Comprehension, und Language in Use.
+Dieser Kurs bietet die Möglichkeit, diese 3 skills trotz der
+reduzierten Stundenzahl im Pflichtmodul Englisch ausreichend
+zu trainieren. Entweder als Folgemodul zum gleichnamigen
+Modul des SS 2014/15 oder nur im WS 2015/16 zu belegen.",
+      "anno": "Kosten für Ankauf eines Buches , ca. € 20",
+      "pre": "Für Schüler der 7. und 8. Klassen des Schuljahres 2015/16",
+      "grad":""
+    },
+    {
+      "catKey": "07",
+      "title": "Was wir alle über die Wirtschaft wissen sollten –
+Unternehmerführerschein Modul B, Volkswirtschaftslehre",
+      "number": "241W15GW",
+      "season": "W",
+      "leader": "Mag. Carola Beier",
+      "day": "FR",
+      "block": "NB1",
+      "rating": "N",
+      "desc": "Volkswirtschaftliche Gesamtrechnung, Geldpolitik, staatliche
+Wirtschaftspolitik, Außenwirtschaft.
+Der Unternehmerführerschein ist ein international anerkanntes
+Zertifikat, welches in deinem Lebenslauf von Vorteil sein kann,
+weil es deine Bereitschaft zeigt, dir zusätzliches Wissen
+abgesehen vom „normalen“ Schulwissen anzueignen.",
+      "anno": "15€ Skillcard der WKO + 20€ Prüfungsgebühr",
+      "pre": "",
+      "grad":""
+    },
+    {
+      "catKey": "07",
+      "title": "Es bebt, es sprudelt, es pritschelt, es knistert, es tobt,
+es läuft über …",
+      "number": "240W15GW",
+      "season": "W",
+      "leader": "Mag. Patrizia Bruckner",
+      "day": "DO",
+      "block": "NB2",
+      "rating": "N",
+      "desc": "Naturkatastrophen – eine unberechenbare Kraft bzw. Gewalt.
+Welche gibt es? Ursachen und Wirkungsweise?
+Naturkatastrophen der Vergangenheit. Messung von
+Katastrophen? Schutzmaßnahmen? Gesteinsarten, …
+Experimente: Vulkanausbruch, Wirbelsturm.
+Positive Nutzungsmöglichkeiten der Elemente Feuer, Wasser und
+Luft.
+Wirtschaftliche Auswirkungen von Naturkatastrophen in der
+Vergangenheit.",
+      "anno": "Exkursion ins Naturhistorische Museum",
+      "pre": "",
+      "grad":""
+    },
+    {
+      "catKey": "08",
+      "title": "Geschichte in Musical und Popmusik",
+      "number": "239W15GS",
+      "season": "W",
+      "leader": "Mag. Agnes Zehetner und Mag. Nina Hacker",
+      "day": "FR",
+      "block": "NB1",
+      "rating": "N",
+      "desc": "Les Misérables, Evita, Hair. Rock, Pop, HipHop. In diesem
+fächerübergreifenden Modul beschäftigen wir uns mit
+musikalischen Bühnenwerken und ihren Verfilmungen sowie mit
+populärer Musik und Musikvideos. Anhand ausgewählter
+Musicals und Songs wollen wir die Darstellung historischer
+Ereignisse und ihre musikalische Umsetzung besprechen.",
+      "anno": "Kopierkosten",
+      "pre": "",
+      "grad":""
+    },
+    {
+      "catKey": "09",
+      "title": "Grundlagen der Bildbearbeitung mit Photoshop",
+      "number": "242W15IN",
+      "season": "W",
+      "leader": "Dr. Johann Zöchling",
+      "day": "MO",
+      "block": "NB1",
+      "rating": "N",
+      "desc": "Umfassende Einschulung in die Grundlagen der Bildbearbeitung
+für absolute Anfänger.
+Selbst erstellte Bilder werden bearbeitet und für den Druck bzw.
+für das Internet aufbereitet.
+Alle Grundfunktionen von Photoshop, inklusive Ebenen- und
+Maskentechnik werden zur Bildgestaltung herangezogen.",
+      "anno": "",
+      "pre": "",
+      "grad":""
+    },
+    {
+      "catKey": "09",
+      "title": "Computernetzwerke",
+      "number": "243W15IN",
+      "season": "W",
+      "leader": "Mag. Markus Altenstrasser",
+      "day": "DI",
+      "block": "NB2",
+      "rating": "N",
+      "desc": "Schraubst du gerne an Computern herum? Hast du dich schon
+öfter gefragt, wie eigentlich so ein Heim- bzw. Firmennetzwerk
+funktioniert, was ein Server ist oder was wirklich im Internet
+passiert? Bei diesem Wahlmodul werden nicht nur in Theorie,
+sondern auch in der Praxis der Aufbau eines kleinen Netzwerks
+erprobt sowie wichtige Tätigkeiten eines Netzwerk-
+Administrators erlernt.",
+      "anno": "Geringfügige Kosten für Material",
+      "pre": "",
+      "grad":""
+    },
+    {
+      "catKey": "10",
+      "title": "Mi piace l`italiano/ Italienisch fürAnfänger I",
+      "number": "244W15IT",
+      "season": "W",
+      "leader": "Mag. Karin Szillovics",
+      "day": "MI",
+      "block": "NB2",
+      "rating": "N",
+      "desc": "Dieses Modul soll Lust auf Land und Leute unseres „Nachbarn“
+machen.Neben der Basisgrammatik werden wir einfache
+Alltagssituationen erarbeiten (im Restaurant, im Hotel, über die
+Familie sprechen), die ihr im nächsten Italienurlaub unter
+Beweis stellen könnt.",
+      "anno": "Kosten für Buch und Kopien",
+      "pre": "Für Schülerinnen der 6.und 7.Klassen. Die Belegung des
+Folgemoduls im Sommersemester ist verpflichtend.",
+      "grad":""
+    },
+    {
+      "catKey": "11",
+      "title": "Differenzialrechnung - 7. Klasse",
+      "number": "245W15MA",
+      "season": "W",
+      "leader": "Mag. Eva Masar-Petrasch",
+      "day": "MO",
+      "block": "NB1",
+      "rating": "N",
+      "desc": "• Ist im Unterricht manchmal zu wenig Zeit zum Üben?
+• Hast du manches von früher schon wieder vergessen?
+Dann bist du hier richtig!
+Wir werden die laufenden Themen des Unterrichts mit
+zusätzlichen Beispielen begleiten, festigen und vertiefen und
+frühere Stoffgebiete wiederholen.
+Im Hinblick auf die Zentralmatura möchte ich den Schwerpunkt
+auf neue Aufgabenformate setzen.",
+      "anno": "Kopierkosten",
+      "pre": "",
+      "grad":""
+    },
+    {
+      "catKey": "11",
+      "title": "Grundkompetenzen - Training Mathematik 6. Klasse",
+      "number": "246W15MA",
+      "season": "W",
+      "leader": "Mag. Eva Masar-Petrasch",
+      "day": "DI",
+      "block": "NB1",
+      "rating": "T",
+      "desc": "• Ist im Unterricht manchmal zu wenig Zeit zum Üben?
+• Hast du manches von früher schon wieder vergessen?
+Dann bist du hier richtig!
+Wir werden frühere Stoffgebiete wiederholen und die
+laufenden Themen mit zusätzlichen Übungen begleiten, festigen
+und vertiefen.
+Im Hinblick auf die Zentralmatura möchte ich den Schwerpunkt
+auf neue Aufgabenformate setzen.",
+      "anno": "Kopierkosten",
+      "pre": "",
+      "grad":""
+    },
+    {
+      "catKey": "12",
+      "title": "Chor und Band 1",
+      "number": "247W15ME",
+      "season": "W",
+      "leader": "Mag. Elisabeth Landler",
+      "day": "FR",
+      "block": "NB1",
+      "rating": "T",
+      "desc": "Geübte und nicht geübte Sängerinnen und Sänger sind
+willkommen. Wir lernen Chormusik quer durch die Jahrhunderte
+kennen, werden den Schwerpunkt aber auf mehrstimmige
+Pop- und Rockliteratur legen. Je nachdem, ob auch Musiker
+dabei sind, soll es Begleitung durch eine Band geben.",
+      "anno": "",
+      "pre": "",
+      "grad":""
+    },
+    {
+      "catKey": "13",
+      "title": "Mathematische Methoden in der Physik",
+      "number": "248W15PH",
+      "season": "W",
+      "leader": "Dr. Johann Zöchling",
+      "day": "MO",
+      "block": "NB2",
+      "rating": "N",
+      "desc": "Physik ist ein mathematisches Modell der Natur.
+Im Modul wird exemplarisch an einigen physikalischen
+Beispielen die Leistungsfähigkeit der angewandten Mathematik
+gezeigt. Mit Unterstützung von Geogebra werden auch etwas
+anspruchsvollere Themen, wie Gravitationsfeld oder Elektrisches
+Feld, bearbeitet.",
+      "anno": "",
+      "pre": "Für SchülerInnen ab der 7.Klassen.",
+      "grad":""
+    },
+    {
+      "catKey": "13",
+      "title": "Woher kommt unser Strom?",
+      "number": "249W15PH",
+      "season": "W",
+      "leader": "Mag. Herman Sambs, M.Ed.",
+      "day": "MI",
+      "block": "NB1",
+      "rating": "N",
+      "desc": "Der Energiebedarf auf europäischer, nationaler und haushaltsbezogener
+Ebene wird dargestellt. Schwerpunkt ist die
+Versorgung mit elektrischer Energie. Möglichkeiten der
+Erzeugung und Herausforderungen bei der Verteilung
+elektrischer Energie werden behandelt.
+Die physikalischen Aspekte der Nutzung von Windenergie,
+Photovoltaik und der in Österreich stark genutzten Wasserkraft
+werden in ihrer Größenordnung und in ihrer technischen,
+politischen und wirtschaftlichen Machbarkeit anderen
+Energiequellen gegenübergestellt.",
+      "anno": "Kopierkosten und eine mögliche Exkursion",
+      "pre": "",
+      "grad":""
+    },
+    {
+      "catKey": "14",
+      "title": "Fit for life",
+      "number": "250W15PP",
+      "season": "W",
+      "leader": "Mag. Margit Wieland und Mag. Carola Beier",
+      "day": "DI",
+      "block": "NB1",
+      "rating": "N",
+      "desc": "Theoretische und praktische Inhalte, die für die Lebensführung
+angehender Erwachsener wichtig und hilfreich sein können:
+Verträge (z.B. Autokauf, Mietwohnung), Versicherungen,
+Finanz- und Steuerangelegenheiten, Zuständigkeiten von
+Behörden, Haushaltsführung, Ernährungswissenschaft,
+vergleichender und kritischer Umgang mit Medien,
+lebenspraktische Übungen (z.B. Selbstbaumöbelanleitungen und
+Straßenkarten lesen)… und was immer die TeilnehmerInnen an
+Ideen und Vorschlägen einbringen.
+Exkursionen in ein Gemeindeamt, ins Parlament, in ein
+Bankinstitut sind geplant.",
+      "anno": "Kosten für Exkursionen",
+      "pre": "",
+      "grad":""
+    },
+    {
+      "catKey": "14",
+      "title": "Vertrauen in die Jugend – Peermediation",
+      "number": "251W15PP",
+      "season": "W",
+      "leader": "Mag. Doris Handler",
+      "day": "MO",
+      "block": "NB2",
+      "rating": "N",
+      "desc": "Dieses Modul richtet sich an jene, die ihre soziale Kompetenz
+(Soft Skills) erweitern und trainieren und die Qualifikationen
+erwerben wollen, die zur Tätigkeit als 'Peer-VertrauensschülerIn' für Gesundheitsförderung,
+Sucht- und Gewaltprävention unserer Schule befähigen.
+Wir beschäftigen uns mit jungen Menschen in verschiedensten
+Lebensbereichen, mit Jugendkultur und den „neuen“ Werten
+der Jugend im 21. Jahrhundert, analysieren Filme zum Thema,
+besuchen Sozialeinrichtungen (z.B. Kindergarten, Behindertenu.
+Flüchtlingseinrichtung …) und lernen Studiengänge kennen
+(z.B. Psychologie, Sozialpädagogik, div. FHs…). Weitere Inhalte
+sind Mediation, Coaching und Konfliktlösungsstrategien. Du
+lernst deine Stärken und Grenzen kennen und erhältst
+Informationen über soziale Arbeit und Studium.",
+      "anno": "Kosten für Kopien, ev. Theater- und Filmbesuche
+bzw. Workshop",
+      "pre": "",
+      "grad":""
+    },
+    {
+      "catKey": "15",
+      "title": "Spanisch 5",
+      "number": "252W15SP",
+      "season": "W",
+      "leader": "Mag. Carola Beier",
+      "day": "DO",
+      "block": "NB1",
+      "rating": "N",
+      "desc": "la vida antes y hoy, el mundo laboral, medios;
+pronombres personales, imperativos, tiempos del pasado,
+futuro;",
+      "anno": "Perspectivas Austria A2+",
+      "pre": "Module Spanisch 1-4",
+      "grad":""
+    },
+    {
+      "catKey": "15",
+      "title": "Training für schriftliche Fertigkeiten zur
+Schularbeiten- und Maturavorbereitung",
+      "number": "253W15SP",
+      "season": "W",
+      "leader": "Mag. Karin Szillovics",
+      "day": "MI",
+      "block": "NB1",
+      "rating": "N",
+      "desc": "Die Wochenstundenanzahl Spanisch wurde im Maturajahr auf
+2 Stunden reduziert. Dieses Modul ist für all jene
+empfehlenswert, die ihre schriftl. Kompetenzen für
+Schularbeiten und eine mögliche schriftliche Spanischmatura
+verbessern bzw. vertiefen möchten.
+Folgende Fähigkeiten werden trainiert:
+Comprensión auditiva
+SIK
+Comprensión lectora",
+      "anno": "Kosten für Lehrbuch",
+      "pre": "Für SchülerInnen der 7.und 8.Klassen",
+      "grad":""
+    }, 
+    {
+      "catKey": "99",
+      "title": "ENDE DES WINTERSEMESTERS DAS HIER IST NUR EIN KOMMENTAR",
+      "number": "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+      "season": "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+      "leader": "~~~~~~~~~~~~~~~~~~~~~~~~~~~●▬▬▬▬๑۩Gerald Kahrer Android-Geek۩๑▬▬▬▬▬●~~~~~~~~~~~~~~~~~",
+      "day": "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~●▬▬▬▬๑۩Sandra Kahrer Mastermind۩๑▬▬▬▬▬●~~~~~~~~~~~~",
+      "block": "~~~~~~~~~~~~~~~~~~~~~~~~●▬▬▬▬๑۩Jakob Kahrer JSON-Fütterer und Graphic Designer۩๑▬▬▬▬▬●~~~~~~~~~~~~~~~~~~~~~",
+      "rating": "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+      "desc": "Programmiert von Gerald Kahrer, Idee von Sandra Kahrer,JSON-Fütterung und Icon von Jakob Kahrer",
+      "anno": "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+      "pre": "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+      "grad":"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+    },
+    {
+      "catKey": "01",
+      "title": "Golf für Anfänger und Fortgeschrittene",
+      "number": "255S15BS",
+      "season": "S",
+      "leader": "Mag. Norbert Hammer",
+      "day": "DO",
+      "block": "NB2",
+      "rating": "N",
+      "desc": "Ziel für Anfänger: Erreichen der Platzreife bzw Spielerlaubnis, Technische Grundschulung in Theorie und Praxies - die elementaren Verhaltens- und Spielregeln auf dem Platz. Ziel für Fortgeschrittene: Erreichen der Turniererlaubnis, Technikfeinformung, taktische Schulung am Platz, theoretische Grundlagen.",
+      "anno": "Kosten ca. 20.-",
+      "pre": "Ort: Golfclub Enzesfeld ab 16 Uhr",
+      "grad":""
+    },
+    {
+      "catKey": "01",
+      "title": "Kraft - Geschicklichkeit - Balance",
+      "number": "256S15BS",
+      "season": "S",
+      "leader": "Mag. Rositta Frodl",
+      "day": "DO",
+      "block": "NB1",
+      "rating": "N",
+      "desc": "'Dieser Körper ist der nackte Wahnsinn'(Single, Alexander Goebel, 1986) Körperliche Ästhetik durch Kraft - Geschicklichkeit - Balance Ein Mix aus: Geräteturnen/Akrobatik - Koordination mit Bällen/Seilen/Reifen - (Jonglieren, Ropeskipping) - Yoga('Sonnengebet', Asanas)",
+      "anno": "Exkursion nach Wien",
+      "pre": "Eigene Tennisausrüstung notwendig",
+      "grad":""
+    }, 
+    {
+      "catKey": "01",
+      "title": "Volleyball 2",
+      "number": "257S15BS",
+      "season": "S",
+      "leader": "Mag. Norbert Hammer",
+      "day": "MI",
+      "block": "NB2",
+      "rating": "N",
+      "desc": "Aufbauend auf Volleyball 1
+Aufspiel aus jeder Position, Smash aus dem Rückraum,
+Doppelblock - Spielsysteme",
+      "anno": "",
+      "pre": "",
+      "grad":""
+    }, 
+    {
+      "catKey": "01",
+      "title": "Fernöstliche Kampfsportarten",
+      "number": "224S15BS",
+      "season": "S",
+      "leader": "Mag. Albert Illnar",
+      "day": "MO",
+      "block": "NB2",
+      "rating": "T",
+      "desc": "Fernöstliche Kampfsportarten in Schnupperkursen
+kennenlernen: Doppelstunden, jeweils Montag oder Mittwoch
+abends; in den Sportarten: Judo (u.A. richtiges Fallen lernen),
+Karate, Kendo, Selbstverteidigung, jeweils in Zusammenarbeit
+mit örtlichen Vereinen.",
+      "anno": "abends geblockt",
+      "pre": "",
+      "grad":""
+    }, 
+    {
+      "catKey": "01",
+      "title": "Fußball in Theorie und Praxis",
+      "number": "254S15BS",
+      "season": "S",
+      "leader": "Mag. Josef Kirnbauer",
+      "day": "DI",
+      "block": "NB2",
+      "rating": "N",
+      "desc": "- Spielformen im Fußball (Praxis)
+- Hospitation bei Trainingseinheiten eines Bundesligavereins und
+(Video)-Analyse eines Bundesligaspiels (Theorie)
+- bei Interesse zwei oder dreitägiges Trainingscamp (Praxis und
+Theorie)",
+      "anno": "Kosten: ca. 140€, teilweise geblockte Einheiten",
+      "pre": "",
+      "grad":""
+    }, 
+    {
+      "catKey": "02",
+      "title": "Architektur und Schule: Schulhausgestaltung",
+      "number": "258S15BE",
+      "season": "S",
+      "leader": "Mag. Regina Hadraba",
+      "day": "DI",
+      "block": "NB2",
+      "rating": "N",
+      "desc": "Wir beschäftigen uns in diesem Modul mit Raum und
+Architektur. Prinzipien der Raumgestaltung werden theoretisch
+erarbeitet und in der Praxis untersucht. Wir besuchen Räume,
+die vorwiegend auf Lehrtätigkeit ausgerichtet sind (UNI Wien,
+neue WU), analysieren sie nach funktionalen und
+gestalterischen Kriterien und im historischen Kontext. Im
+praktischen Teil des Moduls erarbeiten wir ein gestalterisches
+Teilkonzept für unser Schulhaus und setzen dieses um.
+Architekturprojekte erfordern einen langen Atem, man muss
+sich mit Räumen beschäftigen, sie ansehen und verstehen, auch
+im eigenen Schulhaus muss man erst herausfinden, wo Bedarf
+herrscht und wie man Ideen dazu umsetzen kann. Manche guten
+Ideen können vielleicht nicht sofort realisiert werden.",
+      "anno": "Kosten können je nach Art der praktischen
+Arbeit entstehen. Das Modul findet eventuell auch außerhalb der Unterrichtszeit geblockt statt!",
+      "pre": "",
+      "grad":"Referat, Kurzpräsentation des eigenen
+Gestaltungskonzeptes, praktische Arbeit."
+    }, 
+    {
+      "catKey": "02",
+      "title": "Skulptur und Plastik",
+      "number": "259S15BE",
+      "season": "S",
+      "leader": "Mag. Irene Hörndl",
+      "day": "MI",
+      "block": "NB2",
+      "rating": "T",
+      "desc": "Für alle, die sich in Theorie und Praxis mit der Bildhauerei
+auseinandersetzen und ihre künstlerischen Fertigkeiten
+erweitern wollen.
+Inhalte: Grundlagen der Bildhauerei – Arbeiten mit Ton, Holz,
+Stein und experimentellen Materialien – kunstgeschichtliche
+Aspekte der Plastik – Werkstoffkunde – Ausstellungs-,
+Museums-/Galeriebesuche.",
+      "anno": "Kosten je nach verwendetem Material",
+      "pre": "",
+      "grad":""
+    }, 
+    {
+      "catKey": "16",
+      "title": "Genuss aus dem eigenen Garten –
+ökologisches Gärtnern in Theorie und Praxis",
+      "number": "260S15BU",
+      "season": "S",
+      "leader": "Mag. Herbert Haselmayer",
+      "day": "DO",
+      "block": "NB1",
+      "rating": "N",
+      "desc": "Grundlagen der ökologischen Landwirtschaft und Möglichkeiten
+der Anwendung im Garten. Heranziehen und Pflege von
+Gemüsepflanzen und Gartenblumen. Betreuung der Schulbeete
+von der Bodenbearbeitung bis zur Ernte.
+Exkursionen zu entsprechenden Betrieben",
+      "anno": "Exkursionskosten",
+      "pre": "",
+      "grad":""
+    }, 
+    {
+      "catKey": "16",
+      "title": "Parasiten, die auch den menschlichen Körper befallen",
+      "number": "261S15BU",
+      "season": "S",
+      "leader": "Mag. Hans Hackl",
+      "day": "MO",
+      "block": "NB1",
+      "rating": "N",
+      "desc": "Von den einfachen einzelligen bis zu den höher organisierten
+Lebewesen werden tierische Organismen behandelt, die im und
+auf dem menschlichen Körper parasitieren.
+Dabei wird auch ihre Auswirkung auf den Organismus und eine
+mögliche Methode der Bekämpfung gezeigt.",
+      "anno": "",
+      "pre": "",
+      "grad":""
+    }, 
+    {
+      "catKey": "17",
+      "title": "Chemische Labortechnik",
+      "number": "262S15CH",
+      "season": "S",
+      "leader": "Mag. Markus Altenstrasser",
+      "day": "DI",
+      "block": "NB1",
+      "rating": "N",
+      "desc": "In diesem Kurs lernst du die wichtigsten Geräte und
+Arbeitsweisen in einem chemischen Labor kennen. Die Inhalte
+sollen eine Vorbereitung auf jegliche später benötigte
+Laborpraxis, egal ob in Beruf oder Ausbildung, darstellen.",
+      "anno": "",
+      "pre": "",
+      "grad":""
+    }, 
+    {
+      "catKey": "03",
+      "title": "Darstellende Geometrie 2",
+      "number": "263S15DG",
+      "season": "S",
+      "leader": "Mag. Markus Altenstrasser",
+      "day": "DO",
+      "block": "NB1",
+      "rating": "N",
+      "desc": "Die Darstellende Geometrie ist nach wie vor Basis für viele
+Ausbildungen im naturwissenschaftlich-technischen Bereich und
+für manche Studien sogar Voraussetzung (Architektur). Der
+Unterricht erfolgt gemischt am Blatt und am PC.",
+      "anno": "",
+      "pre": "Der Kurs besteht aus vier Modulen (DG 1 bis DG 4). Die Wahl
+der weiteren Module ist verpflichtend, damit der Kurs auch zur Gänze
+abgehalten werden kann.",
+      "grad":""
+    }, 
+    {
+      "catKey": "03",
+      "title": "Darstellende Geometrie 4",
+      "number": "264S15DG",
+      "season": "S",
+      "leader": "Mag. Markus Altenstrasser",
+      "day": "DO",
+      "block": "NB2",
+      "rating": "N",
+      "desc": "Die Darstellende Geometrie ist nach wie vor Basis für viele
+Ausbildungen im naturwissenschaftlich-technischen Bereich und
+für manche Studien sogar Voraussetzung (Architektur). Der
+Unterricht erfolgt gemischt am Blatt und am PC.",
+      "anno": "",
+      "pre": "Der Kurs besteht aus vier Modulen (DG 1 bis DG 4). Die Wahl
+der weiteren Module ist verpflichtend, damit der Kurs auch zur Gänze
+abgehalten werden kann.",
+      "grad":""
+    }, 
+    {
+      "catKey": "04",
+      "title": "Mit den Ohren sehen",
+      "number": "265S15DS",
+      "season": "S",
+      "leader": "Mag. Raimund Perkonigg",
+      "day": "MI",
+      "block": "NB1",
+      "rating": "N",
+      "desc": "Wir lernen Audiobeiträge zu gestalten und zu schneiden.
+Hörfunkreportagen und Hörspiele folgen eigenen
+Gesetzmäßigkeiten, mit denen wir uns auseinandersetzen. Im
+Zentrum steht Lernen durch das Experiment. Wir werden eigene
+Audioreportagen und ein Hörspiel produzieren.",
+      "anno": "",
+      "pre": "",
+      "grad":""
+    }, 
+    {
+      "catKey": "05",
+      "title": "Zeitungswerkstatt – Einführung in den Printjournalismus",
+      "number": "266S15DE",
+      "season": "S",
+      "leader": "Mag. Michaela Mikschicek und Mag. Markus Altenstrasser",
+      "day": "DI",
+      "block": "NB2",
+      "rating": "N",
+      "desc": "Ziel des Kurses ist die Vermittlung der Grundlagen des
+Printjournalismus mit der Befähigung eine Zeitungsseite
+selbstständig am Computer zu planen und bis zur Druckreife
+umzusetzen. Dazu gehören das grundlegende Beherrschen des
+Umgangs mit dem Redaktionssystem Quark-Xpress und die
+Grundregeln und technische Umsetzung von Seitenlayouts.
+Darüber hinaus werden die klassischen Arbeitsmethoden eines
+Journalisten von der Recherche über Interview-Führung bis zum
+Verfassen verschiedener journalistischer Textsorten vermittelt.",
+      "anno": "",
+      "pre": "",
+      "grad":""
+    }, 
+    {
+      "catKey": "06",
+      "title": "Prüfungsvorbereitung FCE –
+First Certificate in English (Teil 2)",
+      "number": "268S15EN",
+      "season": "S",
+      "leader": "Mag. Doris Handler",
+      "day": "MO",
+      "block": "NB1",
+      "rating": "N",
+      "desc": "FCE-Prüfung (GERS Niveaustufe B2), gilt als international
+anerkannter Nachweis über deine Sprachkenntnisse. Das Modul
+richtet sich besonders an SchülerInnen, die in einem Umfeld
+studieren oder arbeiten wollen, in dem Englisch als
+Verkehrssprache verwendet wird.
+Teilnahme ist nicht an Prüfung gebunden, eignet sich als
+zusätzliches Angebot zum Englischunterricht sowie als
+Vorbereitung auf die Reifeprüfung. Du übst schriftliche und
+mündliche Testformate und hast ausreichend Gelegenheit, deine
+Sprachkenntnisse in kommunikativen Übungen anzuwenden.",
+      "anno": "ca. € 5 für Kopien, ev. Prüfungsgebühr € 200! Dieses Modul ist eine Fortsetzung des SS Wahlmoduls„Prüfungsvorbereitung FCE – First Certificate in English (Teil 1). Die Belegungdes WS Moduls ist NICHTBedingung für eine Teilnahme am Kurs, jedoch
+äußerst empfehlenswert.
+Falls du Fragen hast, wende dich bitte persönlich an mich.",
+      "pre": "",
+      "grad":""
+    }, 
+    {
+      "catKey": "06",
+      "title": "English poems and songs",
+      "number": "267S15EN",
+      "season": "S",
+      "leader": "Mag. Sabine Zimmermann",
+      "day": "DI",
+      "block": "NB2",
+      "rating": "N",
+      "desc": "Bist du kreativ? Analysierst und interpretierst du gerne? Magst
+du Englisch? Dann bist du in diesem Modul richtig. Wir werden
+Gedichte und Lieder besprechen, analysieren und interpretieren
+und, bei Interesse, eigene Gedichte verfassen.",
+      "anno": "Kosten für Kopien",
+      "pre": "Für Schüler der 6. und 7. Klassen im Schuljahr 2015/16",
+      "grad":""
+    }, 
+    {
+      "catKey": "06",
+      "title": "Witches and Wizards -
+From the Salem Witch Trials to Harry Potter",
+      "number": "269S15EN",
+      "season": "S",
+      "leader": "Mag. Nina Hacker",
+      "day": "DO",
+      "block": "NB2",
+      "rating": "N",
+      "desc": "In diesem fächerübergreifenden Modul werden die Geschichte
+des Hexenglaubens und der Hexenverfolgung von der Antike bis in
+die Gegenwart (Schwerpunkt angloamerikanischer Raum) ebenso
+Thema sein wie englischsprachige literarische und filmische
+Bearbeitungen - von den bösen Hexen in Macbeth zu einem
+positiveren Hexenbild in modernen Romanen, Filmen und
+TV Serien wie Harry Potter oder Charmed.",
+      "anno": "Kosten für Kopien",
+      "pre": "",
+      "grad":""
+    }, 
+    {
+      "catKey": "07",
+      "title": "Migration",
+      "number": "271S15GW",
+      "season": "S",
+      "leader": "Mag. Irene Hörndl",
+      "day": "DI",
+      "block": "NB1",
+      "rating": "N",
+      "desc": "In diesem Modul erarbeiten wir uns einen Überblick über das
+facettenreiche Thema Migration. Schwerpunktmäßig werden wir
+uns mit den folgenden Fragestellungen beschäftigen:
+- Welche Trends globaler Migration gibt es?
+- Welche Gründe kann es für Migration geben?
+- Was ist Integration?
+- Ist Europa ein Einwanderungskontinent?
+- Wie verlief die Zuwanderung nach Österreich seit den 1960er
+Jahren?",
+      "anno": "",
+      "pre": "",
+      "grad":""
+    }, 
+    {
+      "catKey": "07",
+      "title": "Was wir alle über Unternehmen wissen sollten –Unternehmerführerschein Modul C,Betriebswirtschaftslehre",
+      "number": "272S15GW",
+      "season": "S",
+      "leader": "Mag. Carola Beier",
+      "day": "FR",
+      "block": "NB1",
+      "rating": "N",
+      "desc": "Marketing, Organisation und Finanzierung von Unternehmen.
+Der Unternehmerführerschein ist ein international anerkanntes
+Zertifikat, welches in deinem Lebenslauf von Vorteil sein kann,
+weil es deine Bereitschaft zeigt, dir zusätzliches Wissen
+abgesehen vom „normalen“ Schulwissen anzueignen.",
+      "anno": "15€ Skillcard der WKO + 20€ Prüfungsgebühr",
+      "pre": "",
+      "grad":""
+    }, 
+    {
+      "catKey": "07",
+      "title": "Exkursion Salzburg - Nationalpark Hohe Tauern -
+Salzbergwerk Hallein Dürrnberg",
+      "number": "270S15GW",
+      "season": "S",
+      "leader": "Mag. Albert Illnar",
+      "day": "MI",
+      "block": "NB2",
+      "rating": "T",
+      "desc": "DO: Bahnfahrt Berndorf – Neukirchen / Großvenediger Vortrag
+Nationalpark Hohe Tauern; FR: Habachtal-Almwirtschaft; SA:
+Krimmler Wasserfälle (Massentourismus) – Krimmler Tauernhaus
+SO: Heimfahrt: Unterbrechung in Hallein Salzbergwerk",
+      "anno": "Kosten ca. 150,-. 1Doppelstunde Vorbereitung (MI 11.5.2016)
+Exkursion Do 26.5.2016 (Fronleichnam) bis So 29.5.2016 [langes Wochenende]
+2 Doppelstunden Nachbereitung (MI 8.6. und MI 15.6.2016",
+      "pre": "Bereitschaft zu 2 Tagestouren in den Hohen Tauern,
+Bereitschaft, ein schulfreies Wochenende „zu opfern“.",
+      "grad":""
+    }, 
+    {
+      "catKey": "08",
+      "title": "Politische Bildung",
+      "number": "273S15GS",
+      "season": "S",
+      "leader": "Mag. Martin Schwinner",
+      "day": "MO",
+      "block": "NB1",
+      "rating": "N",
+      "desc": "Parlamentarismus in Österreich. Wie entsteht ein Gesetz? Wie
+kann man mitbestimmen? Entwicklung des Wahlrechts, Recht
+und Gerechtigkeit, Exkursionen ins Parlament, Landesgericht
+und zu einer Gemeinderatssitzung sind geplant.",
+      "anno": "Fahrtkosten Exkursionen",
+      "pre": "",
+      "grad":""
+    }, 
+    {
+      "catKey": "09",
+      "title": "Roboter bauen",
+      "number": "274S15IN",
+      "season": "S",
+      "leader": "Mag. Albert Illnar",
+      "day": "MI",
+      "block": "NB1",
+      "rating": "N",
+      "desc": "Mit Legotechnik Roboter bauen, die mit einer graphischen
+Oberfläche auf den PCs programmiert werden.",
+      "anno": "",
+      "pre": "",
+      "grad":""
+    }, 
+    {
+      "catKey": "10",
+      "title": "Italienisch II",
+      "number": "275S15IT",
+      "season": "S",
+      "leader": "Mag. Karin Szillovics",
+      "day": "MI",
+      "block": "NB2",
+      "rating": "N",
+      "desc": "Sowohl kommunikative Situationen (unter Bezugnahme auf
+Kurzfilme, Hörtexte etc.) als auch Strukturen der Basisgrammatik
+werden ausgebaut und gefestigt, um la vita „all`italiana“zu
+meistern.",
+      "anno": "Kosten für Kopien, Buch",
+      "pre": "Für Schülerinnen und Schüler der 6.u.7.Klassen, die
+Italienisch I absolviert haben.",
+      "grad":""
+    }, 
+    {
+      "catKey": "18",
+      "title": "Archäologie und Experiment – Römisches in Wien und Niederösterreich",
+      "number": "276S15LA",
+      "season": "S",
+      "leader": "Mag. Gabriele Handl",
+      "day": "DI",
+      "block": "NB1",
+      "rating": "N",
+      "desc": "Bearbeitung von einfachen lateinischen Texten (Inschriften),
+Erarbeitung von Hintergrundwissen, Exkursionen zu
+Ausgrabungen (Donautal, Carnuntum), experimentelles Arbeiten
+(Kleidung, Münzkunde u.a.). Achtung: Teilweise Blockveranstaltung!",
+      "anno": "Kosten für Exkursionen, ca. 50€.",
+      "pre": "Latein (egal ob Kurz- oder Langform)",
+      "grad":""
+    }, 
+    {
+      "catKey": "11",
+      "title": "Maturatraining",
+      "number": "277S15MA",
+      "season": "S",
+      "leader": "Mag. Eva Masar-Petrasch",
+      "day": "MO",
+      "block": "NB1",
+      "rating": "N",
+      "desc": "Wiederholung der Grundkompetenzen der gesamten Oberstufe.
+Da die Zentralmatura hauptsächlich aus neuen
+Aufgabenformaten besteht (z. B. Multiple-Choice-Aufgaben, die
+in den Schulbüchern aber nur in beschränktem Umfang
+vorkommen), werden wir diese besonders üben.",
+      "anno": "Kopierkosten",
+      "pre": "",
+      "grad":""
+    }, 
+    {
+      "catKey": "12",
+      "title": "Chor und Band 2",
+      "number": "278S15ME",
+      "season": "S",
+      "leader": "Mag. Elisabeth Landler",
+      "day": "FR",
+      "block": "NB1",
+      "rating": "T",
+      "desc": "Geübte und nicht geübte Sängerinnen und Sänger sind
+willkommen. Wir lernen Chormusik quer durch die Jahrhunderte
+kennen, werden den Schwerpunkt aber auf mehrstimmige
+Pop- und Rockliteratur legen. Je nachdem, ob auch Musiker
+dabei sind, soll es Begleitung durch eine Band geben.",
+      "anno": "",
+      "pre": "",
+      "grad":""
+    }, 
+    {
+      "catKey": "13",
+      "title": "Classical Mechanics and Applications (Selected Topics in English)",
+      "number": "279S15PH",
+      "season": "S",
+      "leader": "Mag. Hermann Sambs, M.Ed.",
+      "day": "DI",
+      "block": "NB2",
+      "rating": "N",
+      "desc": "A variety of free, high quality instructional media will be used.
+English shall be used by all students as a working language in
+speech and in writing without fear of making mistakes in their English. Students will be expected to use
+material distributed in paper copy or electronically to prepare for class. Topics may include: Gravitation and Weightlessness; Newton’s Laws of Motion; The Motion of Projectiles; Hooke’s Law; Work and Energy; Elastic and Inelastic Collisions and Traffic Accidents.",
+      "anno": "Kopierkosten u. ev. Exkursion",
+      "pre": "",
+      "grad":""
+    }, 
+    {
+      "catKey": "14",
+      "title": "Gewalt – Formen, Ursachen, Auswege",
+      "number": "280S15PP",
+      "season": "S",
+      "leader": "Mag. Elisabeth Landler",
+      "day": "MI",
+      "block": "NB2",
+      "rating": "N",
+      "desc": "Gewalt scheint allgegenwärtig, sei es in fast unmerklicher Form,
+sei es offen und brutal. Das reicht von Machtausübung in der
+Familie und im Freundeskreis, Mobbing am Arbeitsplatz,
+sexueller Belästigung, Gewaltausübung im Namen der Religion,
+bis zu Terrorismus und Krieg. Wir versuchen das Phänomen
+ausführlich zu beschreiben und müssen dabei auch über die
+eigene Gewaltbereitschaft nachdenken. Schließlich sollen Wege
+in eine gewaltfreie Gesellschaft gesucht werden.",
+      "anno": "",
+      "pre": "",
+      "grad":""
+    }, 
+    {
+      "catKey": "14",
+      "title": "Kreativität und Angst",
+      "number": "281S15PP",
+      "season": "S",
+      "leader": "Mag. Doris Handler",
+      "day": "MO",
+      "block": "NB2",
+      "rating": "N",
+      "desc": "Wir lesen, analysieren und spielen (deutsche und englische) Texte (Lieder, Filme, Blogs, Zeitungsartikel …) und gehen der
+Frage “What makes (your) writing come alive?“ nach. Wir
+werden ein (kurzes) Theaterstück einstudieren und
+kameratauglich präsentieren. Fachübergreifend beschäftigen wir
+uns mit den Phänomenen der Kreativität und der Angst. Wir
+betrachten unsere eigenen Ängste, experimentieren mit
+angstauslösenden Situationen und kommen Hindernissen auf
+die Spur, die unsere „kreative Ader“ einschränken.
+Durch lustvolle Auseinandersetzung mit Geschriebenem und
+Freude an der eigenen Kreativität soll dein Schreibstil
+verbessert und dein Selbstbewusstsein vor allem in stressvollen
+Situationen (Präsentationen, Bewerbungsgespräche…) gestärkt
+werden.",
+      "anno": "Kosten für Kopien, ev. Theater- und Filmbesuche
+bzw. Workshop",
+      "pre": "",
+      "grad":""
+    }, 
+    {
+      "catKey": "15",
+      "title": "Repaso de la gramática für die 6. Klasse",
+      "number": "282S15SP",
+      "season": "S",
+      "leader": "Mag. Karin Szillovics",
+      "day": "MI",
+      "block": "NB1",
+      "rating": "T",
+      "desc": "In diesem Modul wiederholen wir die Grundgrammatik des
+1./2.Lernjahres und versuchen auf einzelne Schwächen
+einzugehen. Dadurch wird die Grammatik
+gestärkt und gefestigt und ihr gewinnt mehr Vertrauen in die
+Strukturen der spanischen Sprache.",
+      "anno": "Kopierkosten",
+      "pre": "Für Schülerinnen und Schüler der 6. Klasse",
+      "grad":""
+    }, 
+    {
+      "catKey": "15",
+      "title": "Spanisch 6",
+      "number": "283S15SP",
+      "season": "S",
+      "leader": "Mag. Carola Beier",
+      "day": "DO",
+      "block": "NB1",
+      "rating": "N",
+      "desc": "Imigración, salud, fiestas; perífrasis verbales, subjuntivo;",
+      "anno": "Perspectivas Austria A2+",
+      "pre": "Module Spanisch 1-5",
+      "grad":""
+    }
+  ],
+  "info": {
+    "header1": "Kursbuch 2015/16 des BG/BRG Berndorf",
+    "header2": "Richtlinien zur Anmeldung für Wahlmodule",
+    "rules": [
+      {
+        "text": "In dieser App findet ihr eine Darstellung der im
+Wintersemester und Sommersemester 2015/16 angebotenen
+Wahlmodule.
+Darin sind neben Titel und Kursbeschreibung Angaben zu dem
+geplanten Zeitpunkt (1. NB = 1. Nachmittagsblock 14.00 –
+15.40 Uhr bzw. 2. NB 15.40 – 17.20 Uhr), dem Kursleiter/ der
+Kursleiterin, der vorgesehenen Beurteilungsform
+(N= herkömmliche Benotung, T= teilgenommen) zu finden.",
+        "steps": null
+      },
+      {
+        "text": "Jeder Schüler/ jede Schülerin hat von der 6. bis 8. Klasse
+(= 6 Semester) 13 unterschiedliche Wahlmodule zu belegen,
+wobei mindestens 10 davon mit einer Note beurteilt werden
+müssen. Um ein Wahlmodul positiv abzuschließen, muss eine
+aktive Teilnahme an diesem an mindestens 80% der Einheiten
+gegeben sein.",
+        "steps": null
+      },
+      {
+        "text": "In einem Semester dürfen prinzipiell maximal 3 Wahlmodule
+gebucht werden, bzw. höchstens 5 Wahlmodule in einem
+Schuljahr. Eine Überbuchung kann nur im Ausnahmefall von
+der Direktion genehmigt werden.",
+        "steps": null
+      },
+      {
+        "text": "Ein Wahlmodul kann nur mit einer gewissen
+Mindestteilnehmerzahl, die von Kurs zu Kurs verschieden
+sein kann, geführt werden.",
+        "steps": null
+      },
+      {
+        "text": "Die Anmeldung zu einem Wahlmodul - Kurs erfolgt daher in
+zwei Schritten:",
+        "steps": [
+          {
+          "text": "1) Ihr gebt bis 23.1.2015 eure gewünschten
+Wahlmodule auf dem beiliegenden Anmeldeformular
+bekannt (siehe Mitte des Kursbuches). Wenig später
+werdet ihr informiert, ob euer gewählter Kurs
+zustande kommen kann oder nicht. Eine Liste der zu
+führenden Kurse wird veröffentlicht."
+          },{
+          "text": "2) Sollte euer Kurs nicht geführt werden können, habt
+ihr in einem zweiten Anmeldevorgang die Möglichkeit,
+etwas anderes zu wählen."
+          }
+          ]
+      },
+      {
+        "text": "Die Anmeldung zu den Wahlmodulen ist bindend, eine
+spätere Änderung ist aus organisatorischen Gründen nicht
+möglich. Trefft eure Wahl also gewissenhaft!",
+        "steps": null
+      },
+      {
+        "text": "Da die Beschreibungen der einzelnen Module in diesem
+Kursbuch begrenzt sind, könnt ihr weitere Informationen zu
+Inhalten, Anforderungen, Leistungsbeurteilung, usw. direkt
+bei den jeweiligen Modul – Leitern/-innen einholen.",
+        "steps": null
+      }
+      ]
+  }
+}

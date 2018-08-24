@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.gek.and.moduli"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="23"
+        android:targetSdkVersion="26" />
+    
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_action_book"
+        android:label="@string/title_main"
+        android:theme="@style/AppTheme" 
+        android:name="com.gek.and.moduli.ModuliApp">
+        <activity
+            android:name="com.gek.and.moduli.activity.MainActivity"
+            android:label="@string/title_main" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.gek.and.moduli.activity.ModuleSelectionActivity" android:theme="@style/AppTheme.Dialog.Light"/>
+        <activity android:name="com.gek.and.moduli.activity.AboutActivity" />
+        <activity android:name="com.gek.and.moduli.activity.SettingsActivity" />
+    </application>
+
+</manifest>

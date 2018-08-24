@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="active_book">kursbuch201516</string>
+    <string name="title_main">Kursbuch 2015/16</string>
+    
+    <string name="action_plan">Wochenplan</string>
+    <string name="action_selection">Modulauswahl</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="action_help">Hilfe</string>
+    <string name="action_about">Über</string>
+    <string name="action_export">Anmeldung generieren</string>
+    
+    <string name="button_ok">OK</string>
+    
+    <string name="main_card_winter_line1">Wahlmodule</string>
+    <string name="main_card_winter_line2">Wintersemester</string>
+    <string name="main_card_winter_line3">2015/16</string>
+    
+    <string name="main_card_summer_line1">Wahlmodule</string>
+    <string name="main_card_summer_line2">Sommersemester</string>
+    <string name="main_card_summer_line3">2015/16</string>
+    
+    <string name="title_tab1">Wintersemester</string>
+    <string name="title_tab2">Sommersemester</string>
+    
+    <string name="planTable_header1">1.NB</string>
+    <string name="planTable_header2">2.NB</string>
+    <string name="planTable_rowHeader1">Mo</string>
+    <string name="planTable_rowHeader2">Di</string>
+    <string name="planTable_rowHeader3">Mi</string>
+    <string name="planTable_rowHeader4">Do</string>
+    <string name="planTable_rowHeader5">Fr</string>
+    
+    <string name="planTableRowHeaderTextGravity">center</string>
+    <string name="button_desc_selected_module_delete_plan">Modul löschen</string>
+    <string name="image_desc_selected_module_sign_plan">ausgewähltes Modul</string>
+    
+    <string name="card_text_normal">normal</string>
+    <string name="card_text_strong">bold</string>
+    
+    <string name="settings_cat_pdf">PDF Generierung</string>
+    <string name="setting_pdf_firstName_summary">Vorname eingeben</string>
+    <string name="setting_pdf_firstName_title">Vorname</string>
+    <string name="setting_pdf_lastName_summary">Familienname eingeben</string>
+    <string name="setting_pdf_lastName_title">Familienname</string>
+    <string name="setting_pdf_class_summary">Klasse eingeben</string>
+    <string name="setting_pdf_class_title">Klasse</string>
+    <string name="setting_pdf_catalog_summary">Katalognummer eingeben</string>
+    <string name="setting_pdf_catalog_title">Katalognummer</string>
+    
+</resources>

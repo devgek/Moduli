@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content" 
+	>
+	<ImageView 
+	    android:id="@+id/selected_module_sign_plan"
+	    android:layout_width="@dimen/selected_module_sign_width" 
+	    android:layout_height="@dimen/selected_module_sign_height" 
+	    android:layout_alignParentLeft="true"
+	    android:background="@drawable/selected_module_sign" 
+	    android:contentDescription="@string/image_desc_selected_module_sign_plan" 
+	    android:layout_centerVertical="true"
+	    />
+	<ImageButton 
+	    android:id="@+id/selected_module_delete_plan"
+	    android:layout_width="@dimen/selected_module_delete_width" 
+	    android:layout_height="@dimen/selected_module_delete_height" 
+	    android:layout_alignParentRight="true"
+	    android:src="@drawable/ic_gek_clear" 
+	    android:contentDescription="@string/button_desc_selected_module_delete_plan" 
+	    android:layout_centerVertical="true"
+	    />
+		<TextView 
+	    android:id="@+id/selected_module_title_plan"
+	    android:layout_width="wrap_content" 
+	    android:layout_height="wrap_content" 
+	    android:layout_toRightOf="@+id/selected_module_sign_plan" 
+	    android:layout_toLeftOf="@+id/selected_module_delete_plan"
+	    android:textSize="@dimen/selected_module_title_textSize" 
+	    android:layout_marginLeft="@dimen/selected_module_title_margin_left" 
+	    android:layout_marginRight="@dimen/selected_module_title_margin_right"
+	    android:layout_centerVertical="true"
+	    />
+</RelativeLayout>

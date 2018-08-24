@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="@string/settings_cat_pdf" >
+        <EditTextPreference
+            android:key="setting_pdf_lastName"
+            android:summary="@string/setting_pdf_lastName_summary"
+            android:title="@string/setting_pdf_lastName_title" />
+        <EditTextPreference
+            android:key="setting_pdf_firstName"
+            android:summary="@string/setting_pdf_firstName_summary"
+            android:title="@string/setting_pdf_firstName_title" />
+        <EditTextPreference
+            android:key="setting_pdf_class"
+            android:summary="@string/setting_pdf_class_summary"
+            android:title="@string/setting_pdf_class_title" />
+        <EditTextPreference
+            android:key="setting_pdf_catalog"
+            android:summary="@string/setting_pdf_catalog_summary"
+            android:title="@string/setting_pdf_catalog_title" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

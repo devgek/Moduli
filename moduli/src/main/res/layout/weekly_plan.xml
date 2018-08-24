@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:layout_width="match_parent" 
+    android:layout_height="wrap_content" 
+    android:paddingTop="5dp">
+<TableLayout 
+    android:id="@+id/planTable"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" 
+    >
+
+    <TableRow
+        android:id="@+id/planTableRow1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:background="@color/my_dark_grey"
+        >
+
+        <TextView  
+            android:id="@+id/planTableCell00"
+            android:text=""
+            android:layout_width="@dimen/planTableRowTextWidth" 
+            android:layout_height="@dimen/planTableHeaderRowHeight" 
+            />
+
+        <TextView
+            android:id="@+id/planTableCell01"
+            android:text="@string/planTable_header1" 
+            android:layout_width="0dp" 
+            android:layout_weight="1" 
+            android:layout_gravity="@integer/layoutGravityPlanTableRowText"
+            android:gravity="@integer/gravityPlanTableRowText"
+            />
+
+        <TextView
+            android:id="@+id/planTableCell02"
+            android:text="@string/planTable_header2"
+            android:layout_width="0dp" 
+            android:layout_weight="1" 
+            android:layout_gravity="@integer/center"
+            android:gravity="@integer/gravityPlanTableRowText"
+            />
+    </TableRow>
+    <TableRow
+        android:id="@+id/planTableRow2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:background="@color/my_light_grey1" 
+        android:paddingTop="@dimen/planTableRowPadding"
+        >
+
+        <TextView  
+            android:id="@+id/planTableCell10"
+            android:text="@string/planTable_rowHeader1" 
+            android:layout_gravity="@integer/layoutGravityPlanTableRowText"
+            android:layout_height="@dimen/planTableRowHeight"
+            android:gravity="@integer/gravityPlanTableRowText"
+            />
+
+        <com.gek.and.moduli.view.LinearLayoutList 
+            android:id="@+id/planTableCell11" 
+            android:layout_width="0dp" 
+            android:layout_weight="1" 
+            android:layout_height="wrap_content" 
+            android:orientation="vertical"
+            />
+
+        <com.gek.and.moduli.view.LinearLayoutList
+            android:id="@+id/planTableCell12" 
+            android:layout_width="0dp" 
+            android:layout_weight="1" 
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            />
+    </TableRow>
+    <TableRow
+        android:id="@+id/planTableRow3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:background="@color/my_light_grey2"
+        android:paddingTop="@dimen/planTableRowPadding"
+        >
+
+        <TextView  
+            android:id="@+id/planTableCell20"
+            android:text="@string/planTable_rowHeader2"
+            android:layout_gravity="@integer/layoutGravityPlanTableRowText"
+            android:layout_height="@dimen/planTableRowHeight"
+            android:gravity="@integer/gravityPlanTableRowText"
+            />
+
+        <com.gek.and.moduli.view.LinearLayoutList
+            android:id="@+id/planTableCell21" 
+            android:layout_width="0dp" 
+            android:layout_weight="1" 
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            />
+
+        <com.gek.and.moduli.view.LinearLayoutList
+            android:id="@+id/planTableCell22" 
+            android:layout_width="0dp" 
+            android:layout_weight="1" 
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            />
+    </TableRow>
+    <TableRow
+        android:id="@+id/planTableRow4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:background="@color/my_light_grey1"
+        android:paddingTop="@dimen/planTableRowPadding"
+        >
+
+        <TextView  
+            android:id="@+id/planTableCell30"
+            android:text="@string/planTable_rowHeader3"
+            android:layout_gravity="@integer/layoutGravityPlanTableRowText"
+            android:layout_height="@dimen/planTableRowHeight"
+            android:gravity="@integer/gravityPlanTableRowText"
+            />
+
+        <com.gek.and.moduli.view.LinearLayoutList
+            android:id="@+id/planTableCell31" 
+            android:layout_width="0dp" 
+            android:layout_weight="1" 
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            />
+
+        <com.gek.and.moduli.view.LinearLayoutList
+            android:id="@+id/planTableCell32" 
+            android:layout_width="0dp" 
+            android:layout_weight="1" 
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            />
+    </TableRow>
+     <TableRow
+        android:id="@+id/planTableRow5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:background="@color/my_light_grey2"
+        android:paddingTop="@dimen/planTableRowPadding"
+        >
+
+        <TextView  
+            android:id="@+id/planTableCell40"
+            android:text="@string/planTable_rowHeader4"
+            android:layout_gravity="@integer/layoutGravityPlanTableRowText"
+            android:layout_height="@dimen/planTableRowHeight"
+            android:gravity="@integer/gravityPlanTableRowText"
+            />
+
+        <com.gek.and.moduli.view.LinearLayoutList
+            android:id="@+id/planTableCell41" 
+            android:layout_width="0dp" 
+            android:layout_weight="1" 
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            />
+
+        <com.gek.and.moduli.view.LinearLayoutList
+            android:id="@+id/planTableCell42" 
+            android:layout_width="0dp" 
+            android:layout_weight="1" 
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            />
+    </TableRow>
+     <TableRow
+        android:id="@+id/planTableRow6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:background="@color/my_light_grey1"
+        android:paddingTop="@dimen/planTableRowPadding"
+        >
+
+        <TextView  
+            android:id="@+id/planTableCell50"
+            android:text="@string/planTable_rowHeader5"
+             android:layout_gravity="@integer/layoutGravityPlanTableRowText"
+            android:layout_height="@dimen/planTableRowHeight"
+            android:gravity="@integer/gravityPlanTableRowText"
+            />
+
+        <com.gek.and.moduli.view.LinearLayoutList
+            android:id="@+id/planTableCell51" 
+            android:layout_width="0dp" 
+            android:layout_weight="1" 
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            />
+
+        <com.gek.and.moduli.view.LinearLayoutList
+            android:id="@+id/planTableCell52" 
+            android:layout_width="0dp" 
+            android:layout_weight="1" 
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            />
+    </TableRow>
+     
+</TableLayout>    
+</ScrollView>
+    
+

@@ -1,0 +1,38 @@
+<resources>
+
+    <!--
+        Base application theme for API 14+. This theme completely replaces
+        AppBaseTheme from BOTH res/values/styles.xml and
+        res/values-v11/styles.xml on API 14+ devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 14 theme customizations can go here. -->
+    </style>
+
+    <style name="AppActionBarStyle" parent="android:style/Widget.Holo.ActionBar.TabView">
+        <item name="android:background">@color/background_summer</item>
+    </style>
+
+    <style name="actionBarTabStyleNoPadding" parent="android:style/Widget.Holo.ActionBar.TabView">
+        <item name="android:paddingLeft">0dp</item>
+        <item name="android:paddingRight">0dp</item>
+    </style>
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <item name="android:actionBarTabStyle">@style/actionBarTabStyleNoPadding</item>
+        <item name="android:actionBarDivider">@null</item>
+        <!-- item name="android:actionBarStyle">@style/AppActionBarStyle</item -->
+    </style>
+
+    <!-- Makes a "light" equivalent of Theme.Dialog -->
+    <style name="AppTheme.Dialog.Light" parent="@android:style/Theme.Dialog">
+
+        <!-- item name="@android:background">@android:color/background_light</item -->
+        <!-- item name="@android:background">@color/my_light_grey1</item -->
+        <item name="android:background">@color/my_light_grey1</item>
+        <item name="android:textColor">@android:color/primary_text_light</item>
+    </style>
+
+</resources>

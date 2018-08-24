@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="horizontal"
+	>
+	<ImageView 
+	    android:id="@+id/selected_module_sign_plan"
+	    android:layout_width="@dimen/selected_module_sign_width" 
+	    android:layout_height="@dimen/selected_module_sign_height" 
+	    android:background="@drawable/selected_module_sign" 
+	    android:contentDescription="@string/image_desc_selected_module_sign_plan" 
+	    />
+	<TextView 
+	    android:id="@+id/selected_module_title_plan"
+	    android:layout_width="wrap_content" 
+	    android:layout_height="wrap_content" 
+	    android:textSize="@dimen/selected_module_title_textSize"
+	    />
+	<ImageButton 
+	    android:id="@+id/selected_module_delete_plan"
+	    android:layout_width="@dimen/selected_module_delete_width" 
+	    android:layout_height="@dimen/selected_module_delete_height" 
+	    android:src="@drawable/ic_launcher" 
+	    android:contentDescription="@string/button_desc_selected_module_delete_plan"
+	    />
+</LinearLayout>
